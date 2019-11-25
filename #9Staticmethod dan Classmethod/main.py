@@ -12,8 +12,8 @@ class Hero:
         return Hero.__jumlah
     
     # method ini tidak berlaku untuk object tapi berlaku untuk class
-    def get_jumlah1():
-        return Hero.__jumlah
+    # def get_jumlah1():
+    #     return Hero.__jumlah
 
     #method static (decorator) nempel ke object dan class
     @staticmethod
